@@ -1,0 +1,2 @@
+This is an other sample - callback
+This is an additional line appended to the file using callback method

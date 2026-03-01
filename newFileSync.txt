@@ -1,0 +1,1 @@
+This is an additional line appended to the file using synchronous method
